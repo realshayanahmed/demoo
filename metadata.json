@@ -1,0 +1,6 @@
+{
+  "name": "Plately",
+  "description": "A simple 1-dish AR restaurant menu that locks to the table immediately with dynamic dish changing support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
